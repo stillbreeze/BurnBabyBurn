@@ -1,1 +1,1 @@
-echo # BurnBabyBurn
+BurnBabyBurn
